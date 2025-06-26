@@ -1,4 +1,4 @@
 # MyDemo
 Demo project
 <br/>
-Author - RITIK RAWAT
+Author - RITIK RAWAT(MITS Collage)
